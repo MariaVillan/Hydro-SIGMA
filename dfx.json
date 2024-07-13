@@ -4,6 +4,8 @@
       "main": "src/Hydro-Sigma-backend/main.mo",
       "type": "motoko"
     },
+
+ 
     "Hydro-Sigma-frontend": {
       "dependencies": [
         "Hydro-Sigma-backend"
